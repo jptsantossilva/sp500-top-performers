@@ -16,6 +16,6 @@ This software is for educational purposes only. Use the software at **your own r
 
 ## 📝 License
 
-This project is [MIT](https://github.com/jptsantossilva/sp500-top-performers/blob/main/LICENSE.md) licensed.
+This project is [MIT](https://github.com/jptsantossilva/sp500-top-performers/main/LICENSE.md) licensed.
 
 Copyright © 2023 [João Silva](https://github.com/jptsantossilva)
